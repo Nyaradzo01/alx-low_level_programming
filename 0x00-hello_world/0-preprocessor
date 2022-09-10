@@ -1,0 +1,1 @@
+#!/bin/basgcc -E -o c $CFILE
