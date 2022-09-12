@@ -1,1 +1,6 @@
+
+
+#!/bin/bash
+gcc -E -o c $CFILE 
+
 #!/bin/basgcc -E -o c $CFILE
